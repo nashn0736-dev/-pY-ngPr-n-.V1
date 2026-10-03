@@ -2,7 +2,7 @@
 -- Premium Keyless Garden Exploitation Engine
 -- Created by OPyØúngPrínç3
 
-local OrionLib = loadstring(game:HttpGet(("https://githubusercontent.com")))()
+local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/nashn0736-dev/-pY-ngPr-n-.V1/refs/heads/main/OpYoungPrince.lua"))() 
 local Window = OrionLib:MakeWindow({
     Name = "🌱 OPyØúngPrínç3hub.V1 | Garden Game [KEYLESS FE]", 
     HidePremium = false, 
